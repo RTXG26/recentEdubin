@@ -1,0 +1,68 @@
+/*
+@media (max-width:768px) {
+  body{
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  .university{
+    display: flex;
+    flex-direction: column;
+    top:930px;
+    left:0;
+    right:0;
+    width: 100%;
+    border: 1px solid black;
+  }
+  
+
+}
+
+*/
+
+
+/*
+@media (max-width:1450px){
+  .container{
+    padding: 0;
+  }
+  .university{
+    position: absolute;
+    bottom:100px;
+    width: 1190px;
+    height: 8.35rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+  }
+
+ 
+  
+  .university-package{
+    background-color: rgba(249, 102, 102, 0.97);
+    min-width: 18rem;
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.35rem;
+    margin-right: 3rem;
+  
+  }
+  
+  .university-package__departments{
+    margin-left: 2rem;
+  }
+  
+  .university-package__departments h3,a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+
+  
+ 
+ 
+}
+
+*/
